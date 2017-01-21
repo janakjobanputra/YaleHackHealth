@@ -1,1 +1,13 @@
-customasdf
+.cd-timeline-content .section1{
+  position: relative;
+  float:left;
+  width:50%; 
+}
+.cd-timeline-content .section2{
+  position: relative;
+  float:left;
+  width:50%;
+}
+.cd-timeline-content .section2 .video_placeholder{
+	width:100%;
+}
